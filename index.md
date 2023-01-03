@@ -4,9 +4,6 @@ Currently, I'm a Senior Software Engineer at [Luxoft](https://luxsoft.com)
 
 
 #### Contact 
-Email: omar@saqrware.com  
-Phone Number: +201142513245  
-Telegram: https://t.me/saqrware  
-Facebook: https://fb.me/saqrware  
-Twitter: https://twitter.com/SaqrWare  
-Instagran: https://www.instagram.com/saqrware/  
+Email: [omar@saqrware.com](mailto:omar@saqrware.com)  
+Phone Number: [+201142513245](tel:+201142513245)  
+[Telegram](https://t.me/saqrware), [Facebook](https://fb.me/saqrware), [Twitter](https://twitter.com/SaqrWare), [Instagram](https://www.instagram.com/saqrware)
