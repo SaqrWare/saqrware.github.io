@@ -1,7 +1,5 @@
 ### Welcome to Omar Saqr.
 Self-taught developer, reader, cat father and bodybuilder, With good experience ins software enginnering including (Javascript, Golang, Python, Java and scala), Reach me in case you're willing to discuss ideas and projects.  
-Currently, I'm a Senior Software Engineer at [Luxoft](https://luxoft.com)  
-
 
 #### Contact 
 Email: [omar@saqrware.com](mailto:omar@saqrware.com)  
