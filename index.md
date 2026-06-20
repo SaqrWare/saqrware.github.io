@@ -20,7 +20,7 @@ layout: default
 > A secure, privacy-focused password generator that runs entirely in the browser. Generates strong, random passwords with no data ever sent to a server — fully offline-first and open source.
 > * **Features:** Secure random generation · No data stored · Offline first · Open source
 
-### Contact
-* **Email:** [omar@saqrware.com](mailto:omar@saqrware.com)
-* **Phone:** [+20 114 251 3245](tel:+201142513245)
-* **Socials:** [Twitter](https://twitter.com/SaqrWare) • [Facebook](https://fb.me/saqrware) • [Instagram](https://www.instagram.com/saqrware) • [Telegram](https://t.me/saqrware)
+**[gdrive-sync](https://github.com/SaqrWare/gdrive-sync)**
+> *CLI Tool*
+> A command-line tool for bidirectional file synchronization between a local folder and Google Drive. Uses a three-way diff for reliable change detection, with a watch mode, interactive conflict resolution, and Google Docs/Sheets/Slides export.
+> * **Features:** Bidirectional sync · Watch mode · Conflict detection · Dry-run · SQLite state tracking
