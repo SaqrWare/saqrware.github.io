@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome :)
 
 ### Bio
@@ -18,5 +22,5 @@
 
 ### Contact
 * **Email:** [omar@saqrware.com](mailto:omar@saqrware.com)
-* **Phone:** [+20 114 251 3245](https://www.google.com/search?q=tel:%2B201142513245)
+* **Phone:** [+20 114 251 3245](tel:+201142513245)
 * **Socials:** [Twitter](https://twitter.com/SaqrWare) • [Facebook](https://fb.me/saqrware) • [Instagram](https://www.instagram.com/saqrware) • [Telegram](https://t.me/saqrware)
