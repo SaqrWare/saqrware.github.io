@@ -24,3 +24,8 @@ layout: default
 > *CLI Tool*
 > A command-line tool for bidirectional file synchronization between a local folder and Google Drive. Uses a three-way diff for reliable change detection, with a watch mode, interactive conflict resolution, and Google Docs/Sheets/Slides export.
 > * **Features:** Bidirectional sync · Watch mode · Conflict detection · Dry-run · SQLite state tracking
+
+**[html2markdown](https://chromewebstore.google.com/detail/html2markdown/ipaokebgnhhekanlbnmobfoeloppohkl)**
+> *Browser Extension*
+> Converts the HTML of any element on a web page into clean Markdown and saves it as a `.md` file. Point at the element you want with the visual picker — hover to highlight, click to select — and the conversion happens instantly. Available for Chrome, Edge, and Firefox.
+> * **Features:** Visual element picker · HTML → Markdown · Save as `.md` · Cross-browser
