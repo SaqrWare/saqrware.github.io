@@ -2,13 +2,6 @@
 layout: default
 ---
 
-## Welcome :)
-
-### Bio
-> **Software Engineer & Polyglot Developer.**  
-> I am a self-taught developer, avid reader, cat father, and bodybuilder. I have extensive experience in software engineering with a tech stack that includes JavaScript, Go, Python, Java, and Scala.  
-> I am always open to new opportunities. Reach out if you would like to discuss potential projects or exchange ideas.
-
 ### Projects
 **[Video Speeder](https://chromewebstore.google.com/detail/video-speeder/ghfkbpggnigpnoagmbndhkfjgfaenoag/)**
 > *Chrome Extension*
