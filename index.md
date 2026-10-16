@@ -4,6 +4,11 @@ title: SaqrWare
 ---
 
 ### Projects
+**[Retrobbi](https://retrobbi.com/)**
+> *Web App*
+> A meeting room in the browser. Create a room in one click and people join with a code in seconds — no accounts needed. Run polls, Q&A sessions, quizzes, retro boards, and planning poker all in one place, complete with pixel-art avatars.
+> * **Features:** Polls · Q&A · Quizzes · Retro boards · Planning poker · Join by code · No accounts
+
 **[Video Speeder](https://chromewebstore.google.com/detail/video-speeder/ghfkbpggnigpnoagmbndhkfjgfaenoag/)**
 > *Chrome Extension*
 > A productivity tool designed to bypass standard playback limits, allowing users to set video speeds beyond 2x. It features a lightweight, user-friendly interface for efficiently consuming content.
